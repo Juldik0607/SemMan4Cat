@@ -66,7 +66,7 @@ https://semman4cat.nfdi4cat.org/
 
 This repository currently serves as the public project page and issue tracker for SemMan4Cat.
 
-Please use **GitHub Issues** if you:
+Please use [GitHub Issues](https://github.com/Juldik0607/SemMan4Cat/issues) if you:
 
 - encounter a bug or unexpected behavior,
 - would like to suggest new functionality,
