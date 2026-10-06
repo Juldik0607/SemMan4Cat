@@ -5,7 +5,7 @@
        alt="SemMan4Cat logo"
        width="420">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/images/Katze.png"
+  <img src="docs/images/Katze_Sema.png"
        alt="SemMan4Cat cat"
        width="220">
 </p>
