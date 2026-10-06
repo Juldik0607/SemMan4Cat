@@ -1,5 +1,9 @@
 # SemMan4Cat
-
+<p align="center">
+  <img src="https://nfdi4cat.org/Services/SemMan4Cat-height-532-width-1526/_/semman4cat.png"
+       alt="SemMan4Cat logo"
+       width="650">
+</p>
 **SemMan4Cat** is a semantic workspace for managing, exploring, querying, and sharing RDF-based research metadata and knowledge graphs.
 
 Developed within **NFDI4Cat**, SemMan4Cat provides a user-oriented layer for working with semantic research data. It combines RDF storage and SPARQL querying with dataset organization, graph exploration, access control, and collaborative data sharing.
